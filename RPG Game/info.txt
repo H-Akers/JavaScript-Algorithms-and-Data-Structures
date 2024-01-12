@@ -1,0 +1,3 @@
+The RPG game project is the an introductory workset to build JavaScript skills on top of HTML and CSS learning.
+
+The project covers: arrays, strings, objects, functions, loops, if/else statements and basic methods
