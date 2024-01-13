@@ -1,0 +1,3 @@
+Created a calorie counter which determines total calories through different meals in a day and compares against a caloric budget to determine a surplus vs deficit.
+
+Creating this project taught basic regular expressions, template literals, the addEventListener() method, and additional math and error methods.
